@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(27, 0, 41);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    /* text-align: center; */
+    font-size: 2rem;
+}
+
+header,
+main{
+    width: 600px;
+    margin: 0 auto;
+}
+
+ul{
+    padding-left:  2rem;
+}
